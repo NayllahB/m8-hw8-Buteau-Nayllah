@@ -1,1 +1,2 @@
-# m8-hw8-Buteau-Nayllah
+# Assignment 8 Stumbling Blocks
+While completeing this assignment, I had trouble understanding how to to use the animation property correctly with "keyframes". However, I was later able to overcome this by going back in the learning materials.
